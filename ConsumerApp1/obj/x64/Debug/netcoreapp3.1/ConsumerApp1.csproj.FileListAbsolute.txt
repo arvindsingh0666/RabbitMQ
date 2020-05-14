@@ -1,0 +1,3 @@
+E:\2020\ConsumerApp1\obj\x64\Debug\netcoreapp3.1\ConsumerApp1.csprojAssemblyReference.cache
+E:\2020\ConsumerApp1\obj\x64\Debug\netcoreapp3.1\ConsumerApp1.AssemblyInfoInputs.cache
+E:\2020\ConsumerApp1\obj\x64\Debug\netcoreapp3.1\ConsumerApp1.AssemblyInfo.cs

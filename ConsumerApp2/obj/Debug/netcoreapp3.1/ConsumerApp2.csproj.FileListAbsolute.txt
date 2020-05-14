@@ -1,0 +1,12 @@
+E:\2020\ConsumerApp2\bin\Debug\netcoreapp3.1\ConsumerApp2.exe
+E:\2020\ConsumerApp2\obj\Debug\netcoreapp3.1\ConsumerApp2.AssemblyInfoInputs.cache
+E:\2020\ConsumerApp2\obj\Debug\netcoreapp3.1\ConsumerApp2.AssemblyInfo.cs
+E:\2020\ConsumerApp2\bin\Debug\netcoreapp3.1\ConsumerApp2.deps.json
+E:\2020\ConsumerApp2\bin\Debug\netcoreapp3.1\ConsumerApp2.runtimeconfig.json
+E:\2020\ConsumerApp2\bin\Debug\netcoreapp3.1\ConsumerApp2.runtimeconfig.dev.json
+E:\2020\ConsumerApp2\bin\Debug\netcoreapp3.1\ConsumerApp2.dll
+E:\2020\ConsumerApp2\bin\Debug\netcoreapp3.1\ConsumerApp2.pdb
+E:\2020\ConsumerApp2\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+E:\2020\ConsumerApp2\obj\Debug\netcoreapp3.1\ConsumerApp2.csproj.CopyComplete
+E:\2020\ConsumerApp2\obj\Debug\netcoreapp3.1\ConsumerApp2.dll
+E:\2020\ConsumerApp2\obj\Debug\netcoreapp3.1\ConsumerApp2.pdb
